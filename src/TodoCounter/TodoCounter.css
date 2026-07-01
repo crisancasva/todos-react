@@ -1,0 +1,11 @@
+ h1 {    
+      font-size: 30px;
+      text-align: center;
+      margin: 0;
+      padding: 48px;
+ }
+
+ .TodoCounter span {
+      color: #e73d8d;
+      font-weight: bold;
+ }
