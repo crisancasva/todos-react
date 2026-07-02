@@ -1,3 +1,4 @@
+
 # ✅ Todos React
 
 Aplicación de gestión de tareas (To-Do List) construida con React. Permite crear, completar y eliminar tareas, con persistencia de datos usando `localStorage`.
@@ -9,7 +10,7 @@ Aplicación de gestión de tareas (To-Do List) construida con React. Permite cre
 ## 📸 Vista previa
 
 > App desplegada en GitHub Pages
-
+<img width="870" height="653" alt="appTodos" src="https://github.com/user-attachments/assets/38d60fc2-84ee-416f-adfa-f06ac109fa6e" />
 ---
 
 ## 🚀 Funcionalidades
