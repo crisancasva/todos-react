@@ -7,12 +7,6 @@ Aplicación de gestión de tareas (To-Do List) construida con React. Permite cre
 
 ---
 
-## 📸 Vista previa
-
-> App desplegada en GitHub Pages
-<img width="870" height="653" alt="appTodos" src="https://github.com/user-attachments/assets/38d60fc2-84ee-416f-adfa-f06ac109fa6e" />
----
-
 ## 🚀 Funcionalidades
 
 - ✔️ Ver el total de tareas y cuántas has completado
@@ -32,28 +26,6 @@ Aplicación de gestión de tareas (To-Do List) construida con React. Permite cre
 - CSS
 - localStorage (para persistencia)
 - [GitHub Pages](https://pages.github.com/) (para el despliegue)
-
----
-
-## 📁 Estructura del proyecto
-
-```
-src/
-├── App.js                  # Lógica principal y estado global
-├── AppUI.js                # Componente de presentación principal
-├── TodoContext/            # Context API para estado global
-│   └── index.js
-├── useLocalStorage/        # Hook personalizado para localStorage
-│   └── index.js
-├── TodoCounter/            # Contador de tareas completadas
-├── TodoSearch/             # Buscador de tareas
-├── TodoList/               # Lista de tareas
-├── TodoItem/               # Ítem individual de tarea
-├── TodoButtonCreate/       # Botón para abrir modal de creación
-├── TodoLoading/            # Skeleton de carga
-├── TodoError/              # Mensaje de error
-└── TodoEmpty/              # Mensaje cuando no hay tareas
-```
 
 ---
 
